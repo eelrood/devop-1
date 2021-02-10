@@ -1,4 +1,5 @@
-lion
+lion rojo
+otro animal
 tiger
 leopard
 turtle
